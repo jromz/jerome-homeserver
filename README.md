@@ -161,4 +161,4 @@ The primary purpose of this server is to act as a hands-on learning environment.
 ## Development Progress
 
 For those interested in the detailed task tracking and ongoing experiments, a **Kanban project board** is available:  
-[Project Board](https://github.com/jromz/projects/4)
+[Project Board](https://github.com/users/jromz/projects/4)
