@@ -11,6 +11,7 @@ Services:
 * Modded Minecraft server hosting
 * Network-Attached Storage (NAS)
 * Multiple Virtual Machines (VMs) for coursework and enterprise network simulations
+* Immich Cloud Photos
 
 Key goals:
 * Learn more about Linux system administration
@@ -125,6 +126,12 @@ The primary purpose of this server is to act as a hands-on learning environment.
   * College coursework
   * Enterprise network simulations
   * Testing isolated environments
+
+### Cloud Photos Server
+
+* **Immich**
+  * Self-Hosted alternative to Google Photos
+  * Accessible on the internet & Identity validated via Google Single Sign On (SSO) & Tailscale
 
 ---
 
